@@ -1,0 +1,26 @@
+{
+  "name": "hapi-project",
+  "version": "1.0.0",
+  "description": "hapijs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdiazcaballero/hapi-nodejs.git"
+  },
+  "keywords": [
+    "hapijs",
+    "nodejs"
+  ],
+  "author": "Fernando Diaz Caballero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdiazcaballero/hapi-nodejs/issues"
+  },
+  "homepage": "https://github.com/fdiazcaballero/hapi-nodejs#readme",
+  "dependencies": {
+    "hapi": "^13.3.0"
+  }
+}
